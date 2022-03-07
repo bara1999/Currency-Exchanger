@@ -3,7 +3,9 @@
 
 A Flutter application whrer you can know the currency exchange rate between 4 different currencies .
 This App done using APIs.
+![smartmockups_l0ghgj3w](https://user-images.githubusercontent.com/67365371/157004520-a5e8e2d1-02a3-437f-a3d1-9c3a6df7994a.jpg)
 
+# More details
 ![Capture](https://user-images.githubusercontent.com/67365371/156844256-eaf611e8-ded4-4c17-ac22-e6183a184302.PNG)
 ![Capture2](https://user-images.githubusercontent.com/67365371/156844262-e6c07d19-8854-422a-ac64-1f7297bdbac9.PNG)
 ![Capture3](https://user-images.githubusercontent.com/67365371/156844265-360c2b31-956c-4a3a-94fd-1eae6ee0260e.PNG)
